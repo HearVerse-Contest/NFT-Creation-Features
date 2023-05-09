@@ -6,18 +6,30 @@ Once the NFT is minted, it will be available for sale on the HearVerse music mar
 NFT creation:
 
 Set up an artist profile:
+
 Upload profile picture
+
 Upload background
+
 Write an About section
+
 Provide your wallet address
+
 Add links to your social media profiles
+
 Upload song metadata:
+
 Upload cover image or video
 Title
+
 Genre
+
 Additional tags (e.g. album, EP)
+
 Spotify, Soundcloud, Youtube, TikTok links
+
 Artist name
+
 Song title
 Release date
 Record label
