@@ -1,7 +1,7 @@
 # NFT-Creation-Features
 
 
-**Contest 1**
+**Contest 1** (150 HV$)
 
 Once the NFT is minted, it will be available for sale on the HearVerse music marketplace, and the creator will receive royalties for each sale.
 
